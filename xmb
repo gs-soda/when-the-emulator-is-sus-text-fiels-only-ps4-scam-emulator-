@@ -1,0 +1,17 @@
+Now recreating the ps4 xmb is going to be a challenge we want people to have the exact experience of a ps4 from the xmb and updates.
+we are going to be using freebsd 13 with the file system of package files and sprx, along with a user system there will be a user that will be called main which will have 
+all the licenses for the games that work with this emulator and we have great news we have been working on this emulator for 1 year but we have made so much in this emulator 
+and will not be scrapped so this will be a emulator we also will be working on a ps5 emulator in the next 6 years or so, there will also be a online system but a bypass to 
+psn network no ps plus no psn services you will be able to install homebrew and stuff like that you also will be able to downgrade the current os we have recreated 7.02 we are now 
+working on 7.55 we wont be able to work on any future updates until we can get a jailbreak for newer updates, we get files from the file system and intergrate it in our emulater
+so you will be running a jailbreakable version of the ps4s freebsd 7 orbis os 7.55 etc, so on 4/12/21 at 4:38 AM Pacific Eastern Standard Time we have got the 7.55 update to a t 
+and is very stable and have intergrated the package installer from the debug settings into the file and runs the games in the update list the same way
+now we need a online service for people to play with other players on online games we will be using a server for that we bought a perfect server for this job and it works we 
+had different people test and play online it will be connected through a external program we made called lanonline it will come with ps4eop so a friend in the uk got 283 ms 
+a person in the us in ohio got 50 ms and i got 12 ms a person in russia got 593 ms so overall a good experience there also will be a party system using another of our external programs \
+we made called lanchat and works with the ps4 file system and now we have a party system a online system and xmb on 4/20/21 which is great
+now we need a friends system and we coded a program in the ps4 file system and its called friendslistlan and its works and you can add different people also when you start this emulator 
+you setup a account that gives you all the games licenses and you can talk to your friends with this emulator using the party chat system
+and this emulator is going great two very very experienced devs working on this projects is very very powerful and we have done so much in the past year and we might be able to 
+help out GPCS3 and get that demo running and on this emulator you dont need any external programs installed just your gpu drivers etc and vulkan no visual studio and 
+you dont have to build it 
